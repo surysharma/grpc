@@ -1,1 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
+.idea
+.idea/codeStyles/
+.idea/compiler.xml
+.idea/misc.xml
+.idea/sbt.xml
+.idea/vcs.xml
+grpc-example.iml
+target/
